@@ -22,7 +22,7 @@
 
    ![блок-схема](animal2/17.png )
 
-Выложить [историю команды](/[путь/адрес/к-файлу/#заголовок](https://github.com/Solov18/animal-accounting/blob/main/HistoryCommandsUbuntuTerminal.md)https://github.com/Solov18/animal-accounting/blob/main/HistoryCommandsUbuntuTerminal.md) в терминале Ubuntu
+5. Выложить [историю команды](HistoryCommandsUbuntuTerminal.md) в терминале Ubuntu
 
 
    

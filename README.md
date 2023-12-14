@@ -17,4 +17,14 @@
 
    ![блок-схема](animal2/16.png )
 
+   
+4. Установите и удалите deb-пакет с помощью dpkg.
+
+   ![блок-схема](animal2/17.png )
+
+5. Выложить [историю команды](HistoryCommandsUbuntuTerminal.md) в терминале Ubuntu
+
+
+   
+
 

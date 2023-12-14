@@ -29,8 +29,9 @@
 ![блок-схема](animal2/18.png )
 
 7. В подключенном MySQL репозитории создать ресурсы данных «Друзья человека»
-   CREATE DATABASE Human_friends;
-
+```sql
+CREATE DATABASE Human_friends;
+```
    
 
 
